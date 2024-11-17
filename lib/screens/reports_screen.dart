@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import '/screens/pie_chart.dart'; 
 
 class ReportsScreen extends StatelessWidget {
   @override
@@ -7,8 +8,19 @@ class ReportsScreen extends StatelessWidget {
       appBar: AppBar(
         title: Text('Reports'),
       ),
-      body: Center(
-        child: Text('Financial Reports Here'), // Placeholder for financial charts
+      body: Column(
+        children: [
+          Padding(
+            padding: const EdgeInsets.all(16.0),
+            child: Text(
+              'Financial Reports',
+              style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
+            ),
+          ),
+          Expanded(
+            child: PieChartPage(), // Include the PieChartPage widget here
+          ),
+        ],
       ),
     );
   }
