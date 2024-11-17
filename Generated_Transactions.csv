@@ -1,0 +1,443 @@
+User_ID,Type,Amount,Date,Title,Location,Status
+5,credit,821.32,1/2/2023,Credit at Gallery Bank,Phoenix,failed
+10,credit,761.43,1/2/2023,Credit at Tech Expo,Phoenix,reverted
+8,debit,36.65,1/2/2023,Debit at Bank Mart,Lagos,failed
+7,debit,87.33,1/2/2023,Debit at Tech Bank,Philadelphia,reverted
+4,credit,330.02,1/5/2023,Credit at Bank Bank,Chicago,reverted
+10,credit,525.45,1/5/2023,Credit at Store Expo,San Jose,failed
+2,debit,513.19,1/6/2023,Debit at Tech Expo,San Antonio,pending
+10,credit,817.52,1/7/2023,Credit at Tech Bank,San Diego,pending
+4,debit,331.51,1/7/2023,Debit at Store Bank,Dallas,processed
+7,debit,283.36,1/9/2023,Debit at Tech Store,New York,reverted
+9,credit,891.07,1/9/2023,Credit at Tech Tech,Los Angeles,processed
+9,debit,288.67,1/13/2023,Debit at Mart Gallery,San Diego,reverted
+7,debit,940.83,1/13/2023,Debit at Expo Bank,Phoenix,reverted
+6,credit,754.61,1/14/2023,Credit at Gallery Store,San Antonio,reverted
+9,debit,450.18,1/15/2023,Debit at Bank Expo,San Diego,failed
+9,credit,714.78,1/15/2023,Credit at Bank Expo,Los Angeles,reverted
+7,debit,553.83,1/15/2023,Debit at Tech Tech,Chicago,processed
+2,debit,114.5,1/16/2023,Debit at Expo Bank,Dallas,failed
+4,debit,254,1/18/2023,Debit at Tech Gallery,San Antonio,failed
+4,credit,710.37,1/19/2023,Credit at Bank Bank,New York,processed
+6,credit,702.46,1/20/2023,Credit at Store Gallery,New York,failed
+10,debit,352.12,1/21/2023,Debit at Gallery Expo,Chicago,pending
+7,debit,482.97,1/21/2023,Debit at Store Tech,Chicago,reverted
+1,debit,79.18,1/22/2023,Debit at Expo Store,New York,pending
+1,debit,188.93,1/23/2023,Debit at Expo Store,Chicago,reverted
+6,debit,790.67,1/26/2023,Debit at Store Bank,San Jose,processed
+10,debit,576.6,1/27/2023,Debit at Mart Tech,San Antonio,reverted
+9,debit,790.23,1/27/2023,Debit at Mart Tech,Los Angeles,reverted
+4,credit,142.66,1/28/2023,Credit at Expo Store,San Jose,pending
+2,credit,56.22,1/29/2023,Credit at Mart Expo,San Diego,failed
+9,credit,111.64,1/29/2023,Credit at Gallery Store,Chicago,processed
+2,debit,232.65,1/30/2023,Debit at Bank Gallery,Phoenix,reverted
+10,debit,748.87,2/1/2023,Debit at Store Tech,New York,failed
+2,credit,304.37,2/3/2023,Credit at Tech Bank,Los Angeles,pending
+9,debit,249.73,2/4/2023,Debit at Mart Store,New York,pending
+8,debit,973.24,2/4/2023,Debit at Store Store,San Diego,reverted
+4,debit,539.4,2/5/2023,Debit at Tech Tech,Houston,processed
+2,credit,943.2,2/5/2023,Credit at Expo Store,Philadelphia,pending
+6,credit,16.3,2/6/2023,Credit at Gallery Tech,Dallas,failed
+10,debit,380.06,2/6/2023,Debit at Bank Store,San Jose,reverted
+6,credit,778.26,2/7/2023,Credit at Bank Expo,San Jose,reverted
+4,credit,580.97,2/7/2023,Credit at Mart Mart,Dallas,reverted
+10,credit,325.74,2/8/2023,Credit at Store Gallery,Chicago,reverted
+3,credit,727.33,2/9/2023,Credit at Bank Tech,New York,reverted
+8,credit,698.02,2/9/2023,Credit at Bank Store,San Antonio,processed
+10,debit,304.87,2/10/2023,Debit at Bank Gallery,Philadelphia,failed
+2,credit,282.25,2/11/2023,Credit at Mart Store,San Antonio,processed
+2,debit,896.61,2/12/2023,Debit at Expo Tech,Chicago,failed
+7,debit,913.6,2/14/2023,Debit at Store Expo,Los Angeles,failed
+9,debit,164.88,2/16/2023,Debit at Mart Expo,San Jose,processed
+4,credit,159.27,2/16/2023,Credit at Expo Expo,San Jose,pending
+10,debit,597.66,2/17/2023,Debit at Gallery Bank,Philadelphia,failed
+7,debit,778.71,2/17/2023,Debit at Gallery Gallery,San Jose,processed
+9,credit,572.92,2/17/2023,Credit at Gallery Gallery,San Antonio,reverted
+5,debit,349.57,2/17/2023,Debit at Mart Gallery,Philadelphia,pending
+2,credit,499.76,2/18/2023,Credit at Mart Store,San Jose,failed
+9,credit,539.42,2/18/2023,Credit at Tech Bank,San Antonio,reverted
+5,debit,678.78,2/18/2023,Debit at Expo Expo,Houston,failed
+4,debit,43.64,2/19/2023,Debit at Gallery Tech,Dallas,reverted
+1,credit,664.21,2/19/2023,Credit at Gallery Tech,Philadelphia,failed
+1,debit,685.81,2/21/2023,Debit at Mart Expo,Philadelphia,failed
+8,credit,350.88,2/21/2023,Credit at Mart Tech,San Jose,processed
+2,debit,872.1,2/22/2023,Debit at Store Store,San Diego,pending
+6,credit,444.32,2/22/2023,Credit at Bank Gallery,Chicago,processed
+6,credit,792.62,2/23/2023,Credit at Store Store,San Antonio,pending
+4,debit,325.94,2/24/2023,Debit at Expo Tech,Chicago,failed
+7,debit,919.58,2/24/2023,Debit at Gallery Expo,San Diego,pending
+8,debit,581.75,2/24/2023,Debit at Mart Bank,Chicago,reverted
+1,credit,308.09,2/25/2023,Credit at Tech Tech,New York,pending
+9,credit,246.26,2/26/2023,Credit at Store Gallery,Philadelphia,failed
+9,credit,131.94,2/26/2023,Credit at Mart Expo,Philadelphia,reverted
+5,credit,388.47,2/28/2023,Credit at Mart Mart,Los Angeles,reverted
+5,credit,210.65,2/28/2023,Credit at Store Expo,San Diego,reverted
+4,debit,298.81,2/28/2023,Debit at Gallery Expo,New York,processed
+7,credit,587.22,2/28/2023,Credit at Gallery Expo,Houston,reverted
+1,credit,262.49,3/1/2023,Credit at Mart Gallery,San Jose,failed
+9,credit,91.49,3/3/2023,Credit at Gallery Expo,Houston,pending
+6,debit,89.41,3/4/2023,Debit at Expo Tech,San Antonio,processed
+10,credit,205.62,3/4/2023,Credit at Tech Mart,San Antonio,failed
+2,debit,255.52,3/4/2023,Debit at Expo Tech,San Antonio,reverted
+2,debit,541.65,3/5/2023,Debit at Expo Expo,Los Angeles,pending
+8,credit,525.98,3/8/2023,Credit at Tech Gallery,Chicago,processed
+5,credit,617.77,3/11/2023,Credit at Tech Expo,San Diego,processed
+5,credit,467.35,3/11/2023,Credit at Bank Tech,Phoenix,processed
+6,credit,496.95,3/11/2023,Credit at Tech Mart,San Diego,reverted
+8,credit,414.6,3/14/2023,Credit at Mart Mart,Chicago,processed
+1,debit,773.38,3/14/2023,Debit at Expo Store,Chicago,reverted
+9,debit,607.75,3/15/2023,Debit at Store Tech,Houston,failed
+8,credit,301.47,3/17/2023,Credit at Mart Store,Chicago,reverted
+10,debit,362.04,3/17/2023,Debit at Store Mart,Philadelphia,reverted
+5,debit,933.77,3/18/2023,Debit at Mart Tech,Phoenix,pending
+6,debit,762.7,3/18/2023,Debit at Bank Bank,Chicago,failed
+9,credit,157.09,3/20/2023,Credit at Mart Bank,Philadelphia,processed
+9,debit,534.45,3/20/2023,Debit at Bank Store,Phoenix,pending
+8,credit,550.97,3/20/2023,Credit at Gallery Bank,San Diego,processed
+7,credit,41.64,3/22/2023,Credit at Gallery Tech,Philadelphia,failed
+6,credit,85.94,3/26/2023,Credit at Expo Bank,Phoenix,pending
+8,debit,536.75,3/27/2023,Debit at Bank Expo,Houston,processed
+5,credit,887.25,3/28/2023,Credit at Bank Bank,Phoenix,processed
+1,credit,359.97,3/30/2023,Credit at Tech Expo,Phoenix,pending
+5,debit,801.94,3/31/2023,Debit at Mart Store,Los Angeles,reverted
+7,credit,363.54,4/1/2023,Credit at Store Gallery,San Jose,pending
+10,credit,683.1,4/1/2023,Credit at Tech Bank,Philadelphia,failed
+5,debit,683.21,4/3/2023,Debit at Gallery Store,Los Angeles,processed
+10,credit,167.84,4/5/2023,Credit at Store Gallery,Phoenix,reverted
+5,debit,807.88,4/5/2023,Debit at Gallery Gallery,Los Angeles,failed
+10,debit,906.94,4/6/2023,Debit at Tech Tech,Abuja,failed
+4,credit,75.59,4/6/2023,Credit at Mart Tech,San Diego,pending
+8,debit,874.95,4/6/2023,Debit at Tech Store,Los Angeles,pending
+6,debit,495.16,4/7/2023,Debit at Store Mart,Philadelphia,processed
+2,credit,635.24,4/7/2023,Credit at Bank Bank,Chicago,processed
+5,credit,812.15,4/7/2023,Credit at Gallery Bank,Philadelphia,processed
+4,debit,842.81,4/8/2023,Debit at Gallery Mart,Chicago,reverted
+3,debit,653.7,4/8/2023,Debit at Expo Bank,San Diego,failed
+3,debit,328.77,4/9/2023,Debit at Store Gallery,Los Angeles,failed
+8,credit,638.46,4/9/2023,Credit at Gallery Tech,Phoenix,failed
+3,credit,245.64,4/10/2023,Credit at Bank Store,New York,pending
+4,debit,198.3,4/10/2023,Debit at Tech Bank,Houston,failed
+2,debit,366.81,4/10/2023,Debit at Expo Bank,San Antonio,failed
+4,debit,673.67,4/10/2023,Debit at Tech Gallery,San Diego,failed
+6,credit,471.32,4/10/2023,Credit at Gallery Mart,New York,processed
+6,credit,95.75,4/10/2023,Credit at Mart Expo,Houston,reverted
+6,credit,105.62,4/11/2023,Credit at Expo Gallery,Chicago,reverted
+1,credit,829.59,4/11/2023,Credit at Mart Store,San Jose,pending
+2,credit,124.27,4/12/2023,Credit at Mart Gallery,Dallas,failed
+1,credit,708.32,4/14/2023,Credit at Bank Bank,Philadelphia,failed
+1,debit,803.19,4/14/2023,Debit at Expo Tech,Chicago,failed
+8,debit,910.92,4/14/2023,Debit at Store Gallery,San Diego,failed
+5,debit,43.99,4/17/2023,Debit at Expo Expo,San Jose,reverted
+9,debit,746.71,4/18/2023,Debit at Store Tech,San Diego,reverted
+1,credit,202.72,4/18/2023,Credit at Tech Store,San Diego,processed
+8,credit,70.9,4/23/2023,Credit at Gallery Store,Philadelphia,processed
+10,credit,414.78,4/24/2023,Credit at Expo Tech,San Jose,reverted
+9,credit,124.16,4/24/2023,Credit at Gallery Mart,Los Angeles,failed
+4,debit,10.16,4/27/2023,Debit at Gallery Expo,Los Angeles,reverted
+7,credit,758.3,4/28/2023,Credit at Tech Gallery,Los Angeles,processed
+5,debit,620.16,4/28/2023,Debit at Bank Tech,San Diego,pending
+5,credit,575.5,4/29/2023,Credit at Tech Gallery,New York,failed
+10,credit,168.44,4/29/2023,Credit at Gallery Expo,Dallas,reverted
+10,debit,732.21,4/29/2023,Debit at Tech Bank,San Jose,failed
+8,debit,586.84,4/29/2023,Debit at Gallery Tech,New York,failed
+5,debit,498.56,5/1/2023,Debit at Mart Gallery,San Diego,failed
+9,debit,647.69,5/2/2023,Debit at Mart Gallery,Los Angeles,processed
+7,debit,37.15,5/3/2023,Debit at Mart Expo,San Diego,reverted
+1,debit,145.22,5/3/2023,Debit at Bank Mart,Los Angeles,reverted
+5,credit,653.23,5/3/2023,Credit at Bank Tech,San Diego,failed
+3,credit,570.47,5/4/2023,Credit at Tech Tech,San Antonio,failed
+3,credit,550.99,5/5/2023,Credit at Store Gallery,San Jose,pending
+5,credit,132.86,5/7/2023,Credit at Bank Mart,Chicago,reverted
+5,debit,218.52,5/8/2023,Debit at Store Tech,Chicago,failed
+9,credit,272.9,5/8/2023,Credit at Expo Tech,Chicago,failed
+4,debit,555.06,5/9/2023,Debit at Expo Expo,Dallas,reverted
+3,debit,897.62,5/9/2023,Debit at Gallery Tech,Philadelphia,processed
+3,debit,634.94,5/10/2023,Debit at Mart Gallery,New York,processed
+5,credit,277.59,5/10/2023,Credit at Bank Expo,Phoenix,processed
+1,credit,949.14,5/12/2023,Credit at Mart Tech,San Diego,failed
+1,debit,328.7,5/12/2023,Debit at Gallery Expo,Chicago,failed
+2,credit,226,5/12/2023,Credit at Bank Store,San Diego,reverted
+10,debit,185.33,5/14/2023,Debit at Expo Bank,San Jose,processed
+10,debit,815.5,5/15/2023,Debit at Expo Bank,New York,failed
+7,debit,727.49,5/15/2023,Debit at Tech Store,Philadelphia,reverted
+2,debit,505.17,5/16/2023,Debit at Tech Bank,Los Angeles,pending
+1,credit,174.67,5/16/2023,Credit at Expo Gallery,San Diego,reverted
+7,credit,269.61,5/17/2023,Credit at Mart Expo,Phoenix,pending
+10,credit,900.08,5/18/2023,Credit at Tech Gallery,New York,processed
+10,debit,68.06,5/20/2023,Debit at Tech Gallery,Chicago,reverted
+10,credit,474.22,5/21/2023,Credit at Store Mart,Phoenix,failed
+10,credit,258.37,5/23/2023,Credit at Store Bank,San Diego,pending
+2,credit,293.3,5/24/2023,Credit at Tech Expo,Philadelphia,reverted
+7,debit,877.28,5/24/2023,Debit at Tech Store,Dallas,failed
+6,credit,62.27,5/25/2023,Credit at Mart Store,Houston,failed
+7,credit,419.56,5/25/2023,Credit at Store Bank,San Antonio,failed
+3,debit,818.14,5/25/2023,Debit at Store Expo,Dallas,pending
+3,credit,228.15,5/25/2023,Credit at Tech Expo,San Diego,reverted
+5,credit,264.59,5/25/2023,Credit at Store Tech,San Jose,pending
+5,debit,694.43,5/26/2023,Debit at Expo Gallery,Chicago,failed
+7,credit,985.36,5/28/2023,Credit at Store Tech,San Diego,pending
+3,debit,165.82,5/28/2023,Debit at Expo Mart,Philadelphia,reverted
+5,debit,351.59,5/28/2023,Debit at Mart Gallery,Phoenix,failed
+4,debit,828.73,5/28/2023,Debit at Bank Tech,New York,pending
+3,credit,88.72,5/29/2023,Credit at Store Bank,Phoenix,processed
+3,debit,14.15,5/29/2023,Debit at Expo Tech,Dallas,pending
+7,debit,138.18,5/30/2023,Debit at Bank Mart,Chicago,processed
+1,debit,50,5/31/2023,Debit at Mart Bank,Chicago,reverted
+3,debit,897.73,6/1/2023,Debit at Expo Expo,New York,pending
+6,credit,906.82,6/1/2023,Credit at Mart Tech,New York,failed
+6,credit,115.64,6/2/2023,Credit at Tech Bank,Los Angeles,pending
+1,debit,391.73,6/2/2023,Debit at Mart Store,Houston,pending
+10,credit,545.84,6/2/2023,Credit at Store Expo,Phoenix,processed
+8,credit,184.17,6/4/2023,Credit at Expo Gallery,San Jose,processed
+9,credit,895.73,6/4/2023,Credit at Tech Tech,Los Angeles,reverted
+5,debit,20.23,6/4/2023,Debit at Bank Store,San Diego,pending
+7,credit,414.15,6/6/2023,Credit at Store Bank,Dallas,reverted
+5,debit,936.96,6/8/2023,Debit at Bank Mart,Los Angeles,processed
+4,credit,981.93,6/8/2023,Credit at Tech Expo,San Antonio,pending
+7,debit,536.67,6/10/2023,Debit at Store Expo,Los Angeles,failed
+3,credit,396.13,6/10/2023,Credit at Tech Gallery,Philadelphia,failed
+4,credit,259.93,6/11/2023,Credit at Tech Store,Phoenix,reverted
+1,debit,776.26,6/11/2023,Debit at Store Bank,New York,processed
+8,credit,403.3,6/12/2023,Credit at Tech Store,San Jose,failed
+2,debit,492.01,6/13/2023,Debit at Gallery Expo,Houston,pending
+6,debit,747.31,6/14/2023,Debit at Mart Mart,Philadelphia,reverted
+7,debit,750.83,6/14/2023,Debit at Expo Expo,Phoenix,failed
+7,debit,263.65,6/14/2023,Debit at Tech Store,Philadelphia,pending
+1,credit,909.77,6/20/2023,Credit at Bank Mart,Philadelphia,pending
+2,credit,81.6,6/21/2023,Credit at Mart Store,San Jose,failed
+4,credit,861.1,6/22/2023,Credit at Mart Mart,San Diego,failed
+2,credit,704.5,6/22/2023,Credit at Mart Gallery,Houston,failed
+7,credit,751.16,6/23/2023,Credit at Store Gallery,Dallas,pending
+7,debit,693.26,6/23/2023,Debit at Tech Expo,San Antonio,processed
+8,debit,348.36,6/23/2023,Debit at Store Gallery,New York,processed
+10,debit,742.42,6/23/2023,Debit at Bank Expo,San Antonio,processed
+4,debit,672.79,6/24/2023,Debit at Gallery Tech,Los Angeles,processed
+1,credit,442.95,6/25/2023,Credit at Tech Tech,Los Angeles,reverted
+6,debit,61.02,6/27/2023,Debit at Expo Bank,San Jose,reverted
+6,credit,88.69,6/27/2023,Credit at Mart Bank,Philadelphia,processed
+2,credit,808.4,6/29/2023,Credit at Tech Expo,San Diego,reverted
+9,debit,325.47,6/30/2023,Debit at Gallery Mart,Phoenix,reverted
+4,credit,399.8,7/1/2023,Credit at Tech Expo,Los Angeles,pending
+6,debit,379.38,7/3/2023,Debit at Mart Expo,Dallas,failed
+3,credit,98.21,7/4/2023,Credit at Bank Expo,Philadelphia,reverted
+5,debit,949.4,7/5/2023,Debit at Tech Mart,San Diego,pending
+7,debit,233.25,7/6/2023,Debit at Bank Expo,Phoenix,failed
+6,debit,77.4,7/7/2023,Debit at Gallery Bank,San Antonio,failed
+9,debit,256.17,7/7/2023,Debit at Tech Expo,San Antonio,pending
+3,credit,165,7/7/2023,Credit at Store Expo,Houston,processed
+4,debit,629.75,7/8/2023,Debit at Expo Bank,Chicago,processed
+1,credit,39.22,7/8/2023,Credit at Mart Bank,Philadelphia,processed
+5,credit,944.53,7/9/2023,Credit at Expo Bank,Los Angeles,reverted
+1,credit,986.95,7/9/2023,Credit at Expo Store,San Diego,failed
+6,credit,427.1,7/10/2023,Credit at Store Bank,Houston,failed
+1,debit,126.43,7/10/2023,Debit at Store Tech,Chicago,reverted
+4,debit,86.19,7/11/2023,Debit at Gallery Gallery,San Antonio,processed
+8,debit,453.66,7/12/2023,Debit at Tech Bank,Philadelphia,reverted
+6,debit,121.94,7/12/2023,Debit at Bank Expo,Dallas,failed
+1,debit,895.35,7/12/2023,Debit at Expo Store,San Jose,pending
+4,debit,306.75,7/12/2023,Debit at Store Bank,San Antonio,processed
+5,debit,944.17,7/12/2023,Debit at Tech Mart,Houston,processed
+10,debit,796.29,7/14/2023,Debit at Tech Mart,Houston,processed
+3,credit,973.15,7/18/2023,Credit at Tech Gallery,San Jose,failed
+3,credit,241.06,7/18/2023,Credit at Store Expo,Dallas,reverted
+3,debit,780.98,7/19/2023,Debit at Tech Expo,Los Angeles,failed
+3,debit,693.44,7/21/2023,Debit at Mart Tech,Philadelphia,processed
+2,debit,611.52,7/21/2023,Debit at Mart Expo,Houston,pending
+7,credit,571.24,7/23/2023,Credit at Bank Gallery,Philadelphia,failed
+3,debit,370.88,7/23/2023,Debit at Mart Mart,Philadelphia,reverted
+10,credit,842.62,7/23/2023,Credit at Tech Expo,Phoenix,reverted
+5,credit,22.08,7/24/2023,Credit at Store Expo,Los Angeles,reverted
+8,debit,822.68,7/25/2023,Debit at Mart Store,San Diego,pending
+6,credit,354.16,7/26/2023,Credit at Mart Mart,San Diego,reverted
+2,debit,231.8,7/27/2023,Debit at Store Tech,San Diego,reverted
+8,credit,462.05,7/27/2023,Credit at Tech Store,San Diego,pending
+9,credit,24.97,7/27/2023,Credit at Gallery Mart,Dallas,reverted
+10,credit,831.47,8/1/2023,Credit at Gallery Tech,San Jose,failed
+7,debit,68.19,8/2/2023,Debit at Tech Mart,Los Angeles,reverted
+9,credit,366.27,8/3/2023,Credit at Tech Mart,San Diego,failed
+9,credit,534.95,8/3/2023,Credit at Mart Expo,San Antonio,reverted
+2,credit,326.59,8/3/2023,Credit at Tech Gallery,Dallas,failed
+1,debit,544.98,8/4/2023,Debit at Mart Bank,San Antonio,failed
+2,debit,962.64,8/5/2023,Debit at Tech Bank,San Jose,failed
+9,debit,514.12,8/5/2023,Debit at Mart Store,Houston,processed
+6,credit,378,8/6/2023,Credit at Gallery Tech,Philadelphia,reverted
+6,credit,947.51,8/6/2023,Credit at Mart Bank,Phoenix,pending
+6,credit,707.71,8/6/2023,Credit at Tech Mart,Chicago,failed
+2,debit,11.92,8/7/2023,Debit at Gallery Tech,Los Angeles,pending
+9,debit,106.27,8/7/2023,Debit at Store Mart,San Antonio,failed
+5,debit,651.52,8/9/2023,Debit at Tech Tech,San Diego,pending
+10,credit,877.81,8/9/2023,Credit at Gallery Store,San Jose,failed
+4,credit,839.74,8/9/2023,Credit at Gallery Store,Los Angeles,pending
+8,debit,350.68,8/11/2023,Debit at Bank Bank,Philadelphia,processed
+2,credit,809.08,8/11/2023,Credit at Tech Mart,New York,pending
+6,debit,888.27,8/12/2023,Debit at Mart Mart,Chicago,pending
+10,debit,441.94,8/12/2023,Debit at Tech Gallery,Houston,reverted
+4,credit,849.43,8/12/2023,Credit at Mart Expo,Houston,pending
+6,debit,560.61,8/13/2023,Debit at Tech Mart,New York,processed
+7,credit,137.52,8/13/2023,Credit at Bank Tech,Phoenix,processed
+10,credit,929.88,8/14/2023,Credit at Tech Mart,San Antonio,reverted
+4,credit,701.01,8/15/2023,Credit at Tech Gallery,Dallas,pending
+8,credit,727.77,8/15/2023,Credit at Mart Tech,New York,reverted
+6,debit,123.22,8/16/2023,Debit at Expo Expo,San Diego,pending
+7,credit,379.86,8/16/2023,Credit at Bank Gallery,Philadelphia,reverted
+2,credit,340.93,8/16/2023,Credit at Gallery Tech,Dallas,reverted
+7,debit,396.02,8/18/2023,Debit at Gallery Tech,Dallas,failed
+5,credit,339.87,8/18/2023,Credit at Store Gallery,San Diego,pending
+8,debit,797.49,8/18/2023,Debit at Store Store,Philadelphia,pending
+10,debit,465.37,8/18/2023,Debit at Bank Expo,Houston,failed
+2,debit,190.64,8/20/2023,Debit at Bank Gallery,Phoenix,failed
+2,debit,908.72,8/20/2023,Debit at Tech Expo,Dallas,failed
+2,credit,930.05,8/20/2023,Credit at Store Tech,Houston,failed
+7,debit,414.2,8/22/2023,Debit at Tech Bank,Dallas,pending
+6,debit,620.13,8/22/2023,Debit at Gallery Mart,Philadelphia,reverted
+4,debit,441.28,8/22/2023,Debit at Mart Gallery,Dallas,failed
+1,credit,522.47,8/25/2023,Credit at Bank Mart,San Diego,failed
+8,credit,213.09,8/25/2023,Credit at Mart Gallery,San Diego,failed
+5,credit,638.22,8/26/2023,Credit at Mart Mart,San Jose,reverted
+2,credit,165.42,8/26/2023,Credit at Bank Gallery,Philadelphia,pending
+5,credit,764.55,8/27/2023,Credit at Bank Mart,San Antonio,pending
+5,debit,627.81,8/28/2023,Debit at Expo Mart,Philadelphia,reverted
+9,credit,287.36,8/28/2023,Credit at Mart Bank,Chicago,failed
+3,debit,713.62,8/29/2023,Debit at Bank Mart,Chicago,processed
+2,credit,804.65,8/30/2023,Credit at Gallery Gallery,San Diego,failed
+10,credit,505.21,9/1/2023,Credit at Bank Tech,Dallas,reverted
+1,credit,809.36,9/2/2023,Credit at Store Gallery,San Antonio,pending
+5,credit,503.53,9/5/2023,Credit at Bank Gallery,Phoenix,reverted
+10,debit,236.05,9/5/2023,Debit at Gallery Expo,Chicago,reverted
+3,debit,247.77,9/5/2023,Debit at Gallery Expo,San Jose,failed
+9,credit,359.32,9/7/2023,Credit at Mart Store,Los Angeles,processed
+6,credit,585.45,9/7/2023,Credit at Mart Bank,Phoenix,processed
+8,credit,699.18,9/8/2023,Credit at Bank Bank,San Jose,reverted
+8,credit,622.7,9/9/2023,Credit at Store Store,Dallas,processed
+7,debit,830.02,9/10/2023,Debit at Bank Mart,San Jose,pending
+3,credit,608.4,9/10/2023,Credit at Expo Tech,Dallas,processed
+3,debit,557.42,9/10/2023,Debit at Gallery Store,Dallas,reverted
+8,credit,549.71,9/10/2023,Credit at Expo Gallery,Philadelphia,processed
+9,debit,215.39,9/11/2023,Debit at Expo Gallery,Chicago,failed
+1,credit,548.98,9/11/2023,Credit at Expo Gallery,Chicago,processed
+4,debit,613.46,9/11/2023,Debit at Bank Store,Houston,pending
+3,debit,659.32,9/13/2023,Debit at Gallery Mart,Phoenix,pending
+8,debit,770.07,9/13/2023,Debit at Bank Bank,Dallas,reverted
+2,debit,861.43,9/13/2023,Debit at Tech Store,San Antonio,failed
+4,debit,422.68,9/14/2023,Debit at Tech Bank,San Jose,processed
+2,credit,420.32,9/15/2023,Credit at Expo Expo,Philadelphia,processed
+9,credit,595.62,9/15/2023,Credit at Store Gallery,San Antonio,failed
+1,credit,93.05,9/16/2023,Credit at Gallery Bank,Houston,pending
+3,debit,105.96,9/17/2023,Debit at Expo Expo,Los Angeles,pending
+10,debit,56.56,9/17/2023,Debit at Expo Store,Houston,reverted
+7,debit,583.26,9/17/2023,Debit at Mart Tech,Houston,processed
+8,debit,462.82,9/17/2023,Debit at Expo Bank,San Diego,failed
+8,credit,227.73,9/18/2023,Credit at Bank Mart,San Diego,reverted
+2,credit,243.36,9/19/2023,Credit at Tech Mart,Phoenix,pending
+3,debit,532,9/21/2023,Debit at Gallery Store,Phoenix,reverted
+4,debit,969.69,9/22/2023,Debit at Expo Store,San Diego,pending
+6,debit,147.28,9/23/2023,Debit at Expo Expo,San Antonio,failed
+3,debit,900.92,9/25/2023,Debit at Expo Bank,Houston,reverted
+6,debit,88.08,9/26/2023,Debit at Tech Gallery,San Jose,reverted
+8,debit,344.86,9/26/2023,Debit at Bank Store,Phoenix,failed
+2,credit,288.42,9/26/2023,Credit at Store Bank,San Diego,reverted
+1,debit,10.49,9/29/2023,Debit at Gallery Bank,Houston,processed
+1,debit,497.7,9/29/2023,Debit at Store Gallery,San Antonio,reverted
+5,debit,867.86,9/30/2023,Debit at Expo Bank,Phoenix,pending
+7,debit,274.6,9/30/2023,Debit at Store Bank,San Diego,processed
+6,credit,986.71,10/1/2023,Credit at Expo Store,San Jose,reverted
+10,credit,965.2,10/3/2023,Credit at Bank Store,Los Angeles,processed
+5,credit,343.92,10/3/2023,Credit at Gallery Store,New York,pending
+4,credit,414.3,10/5/2023,Credit at Mart Bank,New York,reverted
+6,debit,962.36,10/5/2023,Debit at Gallery Bank,San Jose,reverted
+1,debit,939.8,10/5/2023,Debit at Gallery Gallery,Houston,processed
+5,debit,685.54,10/6/2023,Debit at Expo Bank,Los Angeles,processed
+5,debit,380.37,10/7/2023,Debit at Tech Tech,San Antonio,pending
+6,credit,986.07,10/7/2023,Credit at Store Mart,Philadelphia,reverted
+4,credit,32.48,10/8/2023,Credit at Mart Tech,San Antonio,processed
+3,credit,651.38,10/8/2023,Credit at Gallery Store,San Antonio,pending
+4,debit,212.87,10/8/2023,Debit at Mart Tech,Phoenix,processed
+4,debit,140.94,10/9/2023,Debit at Store Gallery,Chicago,processed
+9,credit,986.58,10/10/2023,Credit at Gallery Gallery,Chicago,pending
+4,credit,137.08,10/11/2023,Credit at Tech Store,San Jose,pending
+2,credit,429.97,10/11/2023,Credit at Bank Mart,Chicago,processed
+6,debit,121.48,10/12/2023,Debit at Expo Gallery,Phoenix,reverted
+4,credit,459.98,10/12/2023,Credit at Expo Store,Los Angeles,pending
+5,debit,52.82,10/13/2023,Debit at Mart Bank,Phoenix,reverted
+4,debit,198.41,10/14/2023,Debit at Mart Store,New York,failed
+6,debit,377.4,10/14/2023,Debit at Tech Gallery,Dallas,processed
+8,credit,603.93,10/16/2023,Credit at Store Expo,San Antonio,reverted
+2,credit,149.17,10/17/2023,Credit at Store Expo,San Antonio,reverted
+5,credit,821.54,10/18/2023,Credit at Tech Bank,Dallas,processed
+9,debit,680.71,10/20/2023,Debit at Expo Store,New York,reverted
+2,debit,971.92,10/21/2023,Debit at Bank Bank,Lagos,failed
+10,credit,990.01,10/21/2023,Credit at Expo Mart,New York,failed
+3,credit,849.98,10/22/2023,Credit at Store Expo,San Jose,failed
+8,credit,95.55,10/22/2023,Credit at Tech Mart,Dallas,pending
+1,credit,599.91,10/22/2023,Credit at Store Expo,San Antonio,processed
+3,debit,97.64,10/26/2023,Debit at Store Store,San Jose,reverted
+10,credit,71.16,10/28/2023,Credit at Expo Expo,Philadelphia,processed
+9,debit,241.04,10/29/2023,Debit at Bank Expo,San Antonio,reverted
+4,debit,55.51,10/30/2023,Debit at Gallery Store,San Jose,pending
+8,debit,842.88,10/31/2023,Debit at Store Gallery,New York,failed
+9,debit,380.4,10/31/2023,Debit at Bank Store,San Antonio,processed
+7,credit,18.6,10/31/2023,Credit at Tech Expo,Phoenix,failed
+4,debit,275.19,11/1/2023,Debit at Mart Gallery,San Jose,processed
+7,debit,169.01,11/2/2023,Debit at Expo Expo,San Antonio,pending
+8,credit,539.58,11/3/2023,Credit at Tech Bank,Los Angeles,reverted
+8,credit,557.04,11/3/2023,Credit at Store Expo,San Jose,reverted
+1,debit,69.73,11/4/2023,Debit at Store Tech,Houston,reverted
+3,debit,887.65,11/5/2023,Debit at Mart Bank,San Jose,pending
+1,credit,200,11/6/2023,Credit at Mart Store,New York,reverted
+10,credit,386.97,11/8/2023,Credit at Mart Bank,Chicago,failed
+7,credit,380.96,11/9/2023,Credit at Bank Mart,Houston,pending
+8,credit,50.63,11/10/2023,Credit at Tech Expo,Philadelphia,pending
+1,credit,969.74,11/11/2023,Credit at Bank Tech,Philadelphia,failed
+4,credit,965.43,11/14/2023,Credit at Gallery Tech,Houston,reverted
+7,debit,79.98,11/14/2023,Debit at Store Bank,Dallas,reverted
+5,debit,43.77,11/15/2023,Debit at Expo Mart,San Diego,pending
+9,debit,588.91,11/16/2023,Debit at Tech Bank,Los Angeles,failed
+5,credit,264.39,11/16/2023,Credit at Gallery Store,San Jose,pending
+10,debit,810.83,11/17/2023,Debit at Mart Expo,Chicago,reverted
+1,debit,965.8,11/17/2023,Debit at Tech Bank,Dallas,processed
+10,debit,395.48,11/19/2023,Debit at Expo Tech,Philadelphia,processed
+4,debit,257.89,11/20/2023,Debit at Expo Gallery,New York,reverted
+4,debit,300.03,11/20/2023,Debit at Bank Store,Phoenix,pending
+3,credit,268.88,11/21/2023,Credit at Gallery Tech,San Jose,failed
+10,debit,128.68,11/21/2023,Debit at Tech Tech,San Diego,failed
+3,credit,747.76,11/22/2023,Credit at Gallery Gallery,Los Angeles,pending
+3,debit,10.04,11/23/2023,Debit at Tech Tech,Chicago,pending
+10,debit,938.65,11/23/2023,Debit at Store Gallery,New York,failed
+2,debit,41.7,11/25/2023,Debit at Gallery Gallery,Houston,failed
+7,debit,80.82,11/27/2023,Debit at Store Tech,Chicago,reverted
+1,debit,284.53,11/28/2023,Debit at Store Tech,San Diego,reverted
+10,credit,339.92,11/30/2023,Credit at Expo Gallery,Philadelphia,pending
+10,credit,144.07,12/2/2023,Credit at Mart Bank,San Antonio,failed
+10,credit,666.87,12/2/2023,Credit at Bank Tech,Chicago,pending
+9,credit,500.95,12/4/2023,Credit at Gallery Expo,New York,reverted
+3,credit,352.46,12/5/2023,Credit at Expo Store,Dallas,failed
+6,credit,551.78,12/6/2023,Credit at Tech Bank,New York,pending
+8,credit,699.15,12/8/2023,Credit at Store Tech,Dallas,processed
+6,debit,822.75,12/9/2023,Debit at Mart Tech,Philadelphia,reverted
+1,debit,922.26,12/11/2023,Debit at Bank Expo,Houston,processed
+1,debit,315.15,12/12/2023,Debit at Bank Gallery,Dallas,reverted
+2,debit,321.41,12/13/2023,Debit at Bank Bank,San Jose,processed
+9,credit,190.63,12/13/2023,Credit at Gallery Gallery,Dallas,processed
+5,debit,657.44,12/13/2023,Debit at Mart Gallery,Dallas,failed
+3,debit,899.06,12/13/2023,Debit at Gallery Expo,Houston,processed
+8,credit,517.66,12/15/2023,Credit at Tech Mart,San Jose,failed
+7,credit,455.97,12/15/2023,Credit at Tech Store,Philadelphia,pending
+1,credit,816.38,12/16/2023,Credit at Mart Store,San Jose,processed
+3,debit,665.18,12/16/2023,Debit at Expo Tech,San Jose,failed
+5,debit,541.68,12/16/2023,Debit at Expo Bank,San Jose,pending
+4,credit,887.18,12/16/2023,Credit at Tech Gallery,Dallas,processed
+9,credit,434.5,12/17/2023,Credit at Mart Store,Phoenix,pending
+3,debit,643.82,12/19/2023,Debit at Mart Mart,Los Angeles,failed
+2,debit,893.1,12/19/2023,Debit at Tech Gallery,Los Angeles,failed
+6,credit,813.74,12/22/2023,Credit at Tech Mart,Dallas,failed
+9,credit,330.86,12/22/2023,Credit at Tech Tech,San Diego,processed
+10,debit,138.74,12/23/2023,Debit at Gallery Expo,San Diego,pending
+6,debit,650.96,12/24/2023,Debit at Mart Gallery,Phoenix,reverted
+7,debit,604.77,12/25/2023,Debit at Mart Bank,Los Angeles,reverted
+2,debit,818.92,12/26/2023,Debit at Mart Store,Los Angeles,processed
+2,credit,521.2,12/27/2023,Credit at Gallery Bank,Los Angeles,failed
+4,credit,361.85,12/27/2023,Credit at Tech Expo,Philadelphia,processed
+3,debit,342.33,12/27/2023,Debit at Bank Expo,San Jose,failed
+1,credit,274.99,12/27/2023,Credit at Gallery Expo,Dallas,processed
+6,debit,373.79,12/28/2023,Debit at Mart Expo,Dallas,reverted
+1,debit,102.18,12/31/2023,Debit at Expo Expo,San Diego,processed
